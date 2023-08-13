@@ -4,6 +4,7 @@ if [ $UID -ne 0 ]; then
 fi
 
 apt-get update
+apt-get install g++
 apt-get install neofetch
 apt-get install scrot
 
