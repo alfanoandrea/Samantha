@@ -24,7 +24,7 @@ This is a simple command-line utility written in C++ that provides various funct
 
 1. Clone the repository.
    ```bash
-   git clone repository_url
+   git clone https://github.com/alfanoandrea/Samantha.git
    ```
 
 2. Navigate to the repository directory.
